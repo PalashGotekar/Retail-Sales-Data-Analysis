@@ -48,5 +48,5 @@ Improve Sales: Understand when and where sales are highest, and adjust staffing 
 Enhance Customer Focus: Tailor strategies to meet the needs of the most valuable customer segments.
 
 Tools Used
-Platform: MS SQL Server
+Platform: MS SQL Server,
 SQL Queries: Data querying, aggregation, and performance analysis.
